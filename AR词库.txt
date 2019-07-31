@@ -1,0 +1,2572 @@
+2D angular acceleration@二维角加速率
+2D angular dynamics@二维旋转动力学
+2D angular speed@二维角速率
+2D angular velocity@二维角速度
+2D orientation@二维定向
+3D angular dynamics@三维旋转动力学
+3D angular momentum@三维角动量
+3D angular velocity@三维角速度
+3D mathematics@三维数学
+3D model@三维模型
+3D model@三维模型
+3D modeler@三维建模师
+3D orientation@三维定向
+3D texture@三维纹理
+3D torque@三维力矩
+3×3 matrix@3×3矩阵
+4×3 matrix@4×3矩阵
+A* algorithm@A*算法
+A* algorithm@A*算法
+A* algorithm@A*算法
+absolute path@绝对路径
+absorb@吸收
+absorb@吸收
+abstract construction@抽象构造
+abstract factory@抽象工厂
+abstract timeline@抽象时间线
+accelerometer@加速计
+accelerometer@加速计
+act@幕
+action state layer@动作状态层
+action state layer@动作状态层
+action state machine/ASM@动作状态机
+action state machine/ASM@动作状态机
+actor@演员
+actor@演员
+additive blending@加法混合
+additive blending@加法混合
+affine matrix@仿射矩阵
+affine matrix@仿射矩阵
+affine transformation@仿射变换
+affine transformation@仿射变换
+affine transformation@仿射变换
+agent@代理人
+agent@代理人
+agent@代理人
+aggregation@聚合
+aggregation@聚合
+aggregation@聚合
+aggregation@聚合
+air lock@阻隔室
+albedo map@反照率贴图
+albedo@反照率
+algorithm@算法
+algorithm@算法
+algorithmic complexity@算法复杂度
+alignment@对齐
+alpha blending function@alpha混合函数
+alpha channel@alpha通道
+ambient light@环境光
+ambient occlusion/AO@环境遮挡
+ambient term@环境项
+amortize@分摊
+amphibious vehicle@水陆两用载具
+analog axis@模拟式轴
+analog input@模拟式输入
+analog signal filtering@模拟信号过滤
+analytic@解析式
+analytical geometry@解析几何
+analytical solution@解析解
+angular dynamics@旋转动力学
+animation bank@动画库
+animation blend tree@动画混合树
+animation blending@动画混合
+animation clip@动画片段
+animation clip@动画片段
+animation compression@动画压缩
+animation control parameter@动画控制参数
+animation controller@动画控制器
+animation controller@动画控制器
+animation instancing@动画实例
+animation pipeline@动画管道
+animation pipeline@动画管道
+animation post-processing@动画后期处理
+animation retargeting@动画重定目标
+animation sampling frequency@动画采样频率
+animation state machine/ASM@动画状态机
+animation state transition@动画状态过渡
+animation state@动画状态
+animation synchronization@动画同步
+animation system@动画系统
+animation tree@动画树
+animation@动画
+animator@动画师
+anisotropic@各向异性
+anisotropic@各向异性
+anti-portal@反入口
+antialiasing@抗锯齿
+anticipation@预备动作
+application programming interface/API@应用程序接口
+application stage@应用程序阶段
+approximation@近似化
+arbitrary convex volume@任意凸体积
+archetype@原型
+area light@面积光
+area@地区
+arithmetic logic unit/ALU@算术逻辑单元
+array@数组
+art director@艺术总监
+articulated@有关节的
+artificial intelligence/AI@人工智能
+artificial intelligence/AI@人工智能
+artificial intelligence/AI@人工智能
+artist@艺术家
+aspect ratio@长宽比
+aspect ratio@长宽比
+assertion system@断言系统
+assertion@断言
+assertion@断言
+assertion@断言
+asset conditioning pipeline/ACP@资产调节管道
+asset conditioning pipeline/ACP@资产调节管道
+asset conditioning pipeline/ACP@资产调节管道
+asset conditioning pipeline/ACP@资产调节管道
+asset conditioning pipeline/ACP@资产调节管道
+asset conditioning pipeline/ACP@资产调节管道
+asset conditioning stage@资产调节阶段
+asset management tool@资产管理工具
+asset@资产
+associative array@关联数组
+asynchronous file I/O@异步文件I/O
+asynchronous program@异步程序
+asynchronous@异步
+atomic data type@基本数据类型
+attachment@依附
+audio bank@音频库
+audio data@音频数据
+audio@音频
+audio@音频
+audio@音频
+automatic variable@自动变量
+AVL tree@AVL树
+axis-aligned bounding box/AABB@轴对齐包围盒
+axis-aligned bounding box/AABB@轴对齐包围盒
+axis-angle@轴角
+axis-angle@轴角
+azimuthal angle@方位角
+background modeler@背景建模师
+backward Euler@向后欧拉
+ball and socket joint@球窝关节
+base class@基类
+baseline offset@基线偏移
+basis vector@基矢量
+basis vector@基矢量
+batched update@批次式更新
+bicubic patch@双三次面片
+bidirectional reflection distribution function/BRDF@双向反射分布函数
+bidirectional surface scattering reflectance distribution function/BSSRDF@双向表面散射反射分布函数
+big-endian@大端
+big-O notation@大O记法
+bilinear@双线性
+billboard@公告板
+billboard@公告板
+binary heap@二叉堆
+binary object image@二进制对象映像
+binary search tree/BST@二叉查找树
+binary search@二分搜寻
+binary space partitioning/BSP tree@二元空间分割树
+binary space partitioning/BSP tree@二元空间分割树
+binary space partitioning/BSP tree@二元空间分割树
+binary space partitioning/BSP tree@二元空间分割树
+binary@二进制
+bind pose@绑定姿势
+binormal@副法矢量
+biomechanics character model@生物力学角色模型
+bit swizzling@位重组
+bits per pixel/BPP@每像素位数
+bitwise operator@位运算符
+black body radiation@黑体辐射
+bleach bypass@略过漂白
+blend factor@混合因子
+blend mask@混合遮罩
+blend percentage@混合百分比
+blending stage@混合阶段
+Blinn-Phong reflection model@Blinn-Phong反射模型
+block scope@块作用域
+bloom effect@敷霜效果
+bloom effect@敷霜效果
+bloom effect@敷霜效果
+bloom effect@敷霜效果
+Bluetooth@蓝牙
+body space@刚体空间
+bone@骨头
+border color mode@边缘颜色模式
+bounding sphere tree@包围球树
+bounding sphere tree@包围球树
+bounding volume@包围体积
+branch@分支
+breakpoint@断点
+breakpoint@断点
+brush geometry@笔刷几何图形
+brush geometry@笔刷几何图形
+BSS segment@BSS段
+bubble up effect@冒泡效应
+bucketed update@桶式更新
+build configuration@生成配置
+bullet trace@弹道
+buoyancy simulation@浮力模拟
+buoyancy@浮力
+buoyancy@浮力
+byte code@字节码
+Bézier ease-in/ease-out curve@Bézier缓入/缓出曲线
+Bézier surface@Bézier曲面
+C runtime library/CRT@标准C执行时库
+C4 Engine@C4引擎
+cache coherency@缓存一致性
+cache line@缓存线
+cache miss@缓存命中失败
+cache miss@缓存命中失败
+cache miss@缓存命中失败
+cache@缓存
+call stack@调用堆栈
+call stack@调用堆栈
+callback function@回调函数
+callback function@回调函数
+callback-driven framework@回调驱动框架
+callback@回调
+camera collision@摄像机碰撞
+camera space@摄像机空间
+camera space@摄像机空间
+camera@摄像机
+canonicalization@规范化
+capsule@胶囊体
+capsule@胶囊体
+Cartesian basis vector@笛卡儿基矢量
+Cartesian coordinate system@笛卡儿坐标系
+cathode ray tube/CRT@阴极射线管
+Catmull-Clark algorithm@Catmull-Clark算法
+Catmull-Rom spline@Catmull-Rom样条
+caustics@焦散
+caustics@焦散
+cel animation@赛璐璐动画
+center of mass/CM/COM@质心
+center of mass/CM/COM@质心
+centroid@几何中心
+chain of responsibility@职责链
+change of basis@基的变更
+change of basis@基的变更
+changelist（Perforce）@变更列表
+channel function@通道函数
+channel@频道
+chapter@章
+character animation@角色动画
+character glyph@字符字形
+character locomotion@角色运动
+character locomotion@角色运动
+character mechanics@角色机制
+character rigging artist@角色绑定师
+cheat code@作弊码
+cheat@作弊
+check point@储存点
+check-in@签入
+check-in@签入
+check-out@签出
+chief technical officer/CTO@首席技术官
+chord@弦
+chord@弦
+chromaticity@色度
+circular dependency@循环依赖
+circular queue@循环队列
+clamp mode@截取模式
+class diagram@类图
+class hierarchy@类层次结构
+class@类
+class@类
+class@类
+client-on-top-of-server mode@客户端于服务器之上模式
+client-on-top-of-server@客户端于服务器之上
+client-server model@主从式模型
+clipping plane@剪切平面
+clipping plane@剪切平面
+clipping@裁剪
+clock drift@计时器漂移
+clock variable@时钟变量
+closed form@闭合式
+closed form@闭合式
+closed hashing@闭合式散列
+closest point query@最近点查询
+cloth@布料
+coding convention@编码约定
+coding standard@编码标准
+coefficient of friction@摩擦系数
+coefficient of restitution@恢复系数
+collection@集合
+collidable@可碰撞体
+collinear@共线
+collision agent@碰撞代理人
+collision cast@碰撞投射
+collision contact manifold@碰撞接触流形
+collision detection system@碰撞检测系统
+collision detection@碰撞检测
+collision detection@碰撞检测
+collision detection@碰撞检测
+collision filtering@碰撞过滤
+collision island@碰撞岛
+collision material@碰撞材质
+collision middleware@碰撞中间件
+collision primitive@碰撞原型
+collision query@碰撞查询
+collision representation@碰撞表达形式
+collision response@碰撞响应
+collision response@碰撞响应
+collision volume@碰撞体积
+collision world@碰撞世界
+collision（hash table）@碰撞（散列表）
+color channel@颜色通道
+color correction@颜色校正
+color format@颜色格式
+color model@颜色模型
+color space@颜色空间
+color temperature@色温
+color-shift@颜色偏移
+colorization@着色
+column matrix@列矩阵
+comma-separated values/CSV@逗号分隔型取值
+comma-separated values/CSV@逗号分隔型取值
+command line argument@命令行参数
+command pattern@命令模式
+command queue@命令队列
+command@命令
+commit@提交
+common language runtime/CLR@通用语言运行平台
+compact@夯实
+compiled language@编译式语言
+compiler@编译器
+complex number@复数
+component-wise product@分量积
+component@组件
+component@组件
+composer@作曲家
+composite resource@复合资源
+composite resource@复合资源
+composition@合成
+composition@合成
+composition@合成
+composition@合成
+compound shape@复合形状
+compression@压缩
+concept artist@概念艺术家
+Concurrent Version System/CVS@并发版本管理系统
+conditional breakpoint@条件断点
+conditional compilation@条件编译
+configuration space@位形空间
+conjugate quaternion@共轭四元数
+console variables/CVAR@主控台变量
+console@主控台
+constraint chain@约束链
+constraint satisfaction@约束满足
+constraint solver@约束求解程序
+constraint@约束
+constraint@约束
+constraint@约束
+constraint@约束
+constructive solid geometry/CSG@构造实体几何
+constructor@构造函数
+contact shadow@接触阴影
+contact@接触
+container@容器
+context sensitive control@上下文相关控制
+continuity@连续性
+continuous collision detection/CCD@连续碰撞检测
+continuous collision detection/CCD@连续碰撞检测
+control ownership@控制拥有权
+convergence@收敛性
+convex hull@凸包
+convex polyhedral region@凸多面体区域
+convexity@凸性
+cooperative multitasking@合作式多任务
+cooperative multitasking@合作式多任务
+coordinate space@坐标空间
+copy on write@写入时复制
+core pose@核心姿势
+core system@核心系统
+Cornell box@康乃尔盒子
+coroutine@协程
+couple@力偶
+cover point@掩护点
+crash report@崩溃报告
+critical section@临界区域
+cross product@叉积
+cross-fade@淡入／淡出
+cross-fade@淡入／淡出
+cross-reference@交叉引用
+cube map@立方体贴图
+cubic environment map@立方环境贴图
+cubic spline curve@三次样条曲线
+culling@剔除
+cut-scene@过场动画
+cylindrical coordinate system@圆柱坐标系
+data breakpoint@数据断点
+data object@数据对象
+data pathway communication system@数据路径通信系统
+data segment@数据段
+data structure@数据结构
+data structure@数据结构
+data-definition language@数据定义语言
+data-driven architecture@数据驱动架构
+data-driven event@数据驱动事件
+data-driven@数据驱动
+data-driven@数据驱动
+de-bounce@去除按钮抖动
+dead zone@死区
+dead zone@死区
+deadline@时限
+deadline@时限
+deadly diamond@致命钻石
+debug camera@调试用摄像机
+debug console@调试主控台
+debug drawing@调试绘图
+debugger@调试器
+debugger@调试器
+debugging information@调试信息
+debugging tool@调试工具
+debugging@调试
+decal@贴花
+decal@贴花
+decimal@十进制
+declaration@声明
+declarative language@声明式语言
+decode@解码
+dedicated server mode@专属服务模式
+dedicated server@专用服务器
+deep-copy@深度复制
+default value@默认值
+deferred rendering@延迟渲染
+definition@定义
+deformable body@形变体
+deformable body@形变体
+defragmentation@碎片整理
+degree of freedom/DOF@自由度
+degree of freedom/DOF@自由度
+degree of freedom/DOF@自由度
+degree of freedom/DOF@自由度
+Delaunay triangulation@Delaunay三角剖分
+Delaunay triangulation@Delaunay三角剖分
+delete@删除
+dependency system@依赖系统
+depth buffer@深度缓冲
+depth buffer@深度缓冲
+depth map@深度贴图
+depth-of-field blur@景深模糊
+dereference@解引用
+dereference@解引用
+derived class@派生类
+desaturation@去饱和度
+desaturation@去饱和度
+design patten@设计模式
+destructible object@可破坏物体
+deterministic@确定性的
+device driver@设备驱动程序
+diamond problem@菱形继承问题
+dictionary@字典
+dictionary@字典
+dictionary@字典
+diff tool@区别工具
+diff@区别
+difference clip@区别片段
+diffract@衍射
+diffuse color@漫反射颜色
+diffuse map@漫反射贴图
+diffuse term@漫反射项
+diffuse texture@漫反射纹理
+diffuse@漫反射
+digital button@数字式按钮
+digital content creation/DCC@数字内容创作
+digital content creation/DCC@数字内容创作
+digital content creation/DCC@数字内容创作
+digital content creation/DCC@数字内容创作
+Digital Molecular Matter/DMM@数字分子物质
+Digital Molecular Matter/DMM@数字分子物质
+Digital Molecular Matter/DMM@数字分子物质
+digitize@数字化
+direct lighting@直接光照
+direct memory access/DMA@直接内存访问
+direct memory access/DMA@直接内存访问
+directed acyclic graph/DAG@有向非循环图
+directed acyclic graph/DAG@有向非循环图
+directed graph@有向图
+directional light@平行光
+disassembly@反汇编
+discrete oriented polytope/DOP@离散定向多胞形
+divide-and-conquer@分治
+divide-and-conquer@分治
+dot product test@点积判定
+dot product@点积
+double buffering@双缓冲法
+double dispatch@双分派
+double-buffered allocator@双缓冲分配器
+double-ended queue/deque@双端队列
+double-ended stack allocator@双端堆栈分配器
+double-ended stack allocator@双端堆栈分配器
+doubly-linked list@双向链表
+dual number@对偶数
+dual quaternion@对偶四元数
+duck typing@鸭子类型
+dumb proxy@哑代理
+duration@经过时间
+dynamic array@动态数组
+dynamic array@动态数组
+dynamic avoidance@动态回避
+dynamic lighting system@动态光照系统
+dynamic linked library/DLL@动态链接库
+dynamic memory allocation@动态内存分配
+dynamic memory allocation@动态内存分配
+dynamic tessellation@动态镶嵌
+dynamics@动力学
+dynamics@动力学
+early z-test@提前z测试
+effect file@效果文件
+emissive object@发光物体
+emissive texture map@放射光贴图
+encapsulation@封装
+encode@编码
+end effector@末端受动器
+end effector@末端受动器
+endianness@字节序
+energy@能量
+engine configuration@引擎配置
+engineer@工程师
+entity@实体
+enumerated value@枚举值
+environment map@环境贴图
+environment map@环境贴图
+environment map@环境贴图
+environmental rendering effect@环境渲染效果
+epilogue code@终解代码
+equilibrium state@平衡状态
+error detection@错误检测
+error handling@错误处理
+error minimization@误差最小化
+error return code@错误返回码
+Euler angle@欧拉角
+Euler angle@欧拉角
+event argument@事件参数
+event handler@事件处理器
+event handler@事件处理器
+event handling@事件处理
+event handling@事件处理
+event priorization@事件优先次序
+event queuing@事件排队
+event system@事件系统
+event trigger@事件触发器
+event-driven architecture@事件驱动架构
+event@事件
+event@事件
+event@事件
+event@事件
+exception@异常
+exclusive check-out@独占签出
+exclusive OR/XOR@异或
+executable and linkable format/ELF@可执行与可链接格式
+executable file@可执行文件
+executable image@可执行映像
+executable image@可执行映像
+explicit Euler method@显式欧拉法
+explicit Euler method@显式欧拉法
+explicit Euler method@显式欧拉法
+explosion@爆炸
+exponent@指数
+exporter@导出器
+exporter@导出器
+extensibility@扩展性
+external reference@外部引用
+extreme pose@极端姿势
+extrusive list@外露式表
+facial animation@面部动画
+factory pattern@工厂模式
+fast motion mode@快动作模式
+field of view@视野
+field of view@视野
+fighting game@格斗游戏
+file scope@文件作用域
+file section@文件段
+file system@文件系统
+filename@文件名
+finite state machine/FSM@有限状态机
+finite state machine/FSM@有限状态机
+first person shooting/FPS@第一人称射击
+first-party developer@第一方开发商
+fixed body@固定刚体
+fixed-function pipeline@固定功能管道
+fixed-point@定点
+flat weighted average blend representation@扁平的加权平均混合表示法
+floating-point@浮点
+fluid dynamics simulation@流体动力学模拟
+focal point@焦点
+font@字体
+font@字体
+foot sliding@滑步
+force-feedback@力反馈
+force-feedback@力反馈
+force@力
+force@力
+foreground modeler@前景建模师
+fork@分叉
+fork@分叉
+forward kinematics/FK@正向运动学
+fractal subdivision@分形细分
+fragment shader@片段着色器
+fragment@片段
+frame buffer@帧缓冲
+frame of reference@参考系
+frame per second/FPS@每秒帧数
+frame rate@帧率
+frame time@帧时间
+frame-rate governing@帧率调控
+frame@帧
+frame@帧
+framework@框架
+free list@自由列表
+free store@自由存储
+free-form property@自由格式属性
+friction@摩擦力
+friend@友元
+front end@前端
+frozen transition@冻结过渡
+frustum culling@平截头体剔除
+frustum@平截头体
+frustum@平截头体
+full-motion video/FMV@全动视频
+full-motion video/FMV@全动视频
+full-motion video/FMV@全动视频
+full-motion video/FMV@全动视频
+full-screen antialiasing/FSAA@全屏抗锯齿
+full-screen antialiasing/FSAA@全屏抗锯齿
+full-screen post effect@全屏后期处理效果
+full-screen post effect@全屏后期处理效果
+function call stack@函数调用堆栈
+function-level linking@函数级链接
+function-level linking@函数级链接
+function@函数
+functional language@函数式语言
+fur shell@皮毛外壳
+game asset@游戏资产
+game designer@游戏设计师
+game development team@游戏开发团队
+game director@游戏总监
+game engine@游戏引擎
+game engine@游戏引擎
+game genre@游戏类型
+game genre@游戏类型
+game loop@游戏循环
+game loop@游戏循环
+game object model@游戏对象模型
+game object model@游戏对象模型
+game object query@游戏对象查询
+game object update@游戏对象更新
+game object@游戏对象
+game theory@博弈论
+game timeline@游戏时间线
+game world data@游戏世界数据
+game world editor@游戏世界编辑器
+game world loading@游戏世界加载
+game world streaming@游戏世界串流
+game world@游戏世界
+game world@游戏世界
+game-driven body@游戏驱动刚体
+game@游戏
+gameplay foundation layer@游戏性基础层
+gameplay foundation system@游戏性基础系统
+gameplay foundation system@游戏性基础系统
+gameplay representation@游戏性表达形式
+gameplay system@游戏性系统
+gameplay system@游戏性系统
+gameplay@游戏性
+gameplay@游戏性
+gamma correction@伽马校正
+gamma responsive curve@伽马响应曲线
+Gang of Four/GoF@四人组
+Gang of Four/GoF@四人组
+Gaussian elimination@高斯消去法
+generalist@通才
+generic programming@泛型编程
+geometric primitive@几何图元
+geometric primitive@几何图元
+geometric primitive@几何图元
+geometry buffer/G-buffer@几何缓冲
+geometry shader@几何着色器
+geometry shader@几何着色器
+geometry sorting@几何排序
+gesture detection@手势检测
+gesture detection@手势检测
+gesture interface@姿势界面
+gimbal lock@万向节死锁
+gimbal lock@万向节死锁
+GJK algorithm@GJK算法
+global illumination model@全局光照模型
+global illumination/GI@全局光照
+global pose@全局姿势
+global timeline@全局时间线
+global timeline@全局时间线
+globally unique identifier/GUID@全局唯一标识符
+globally unique identifier/GUID@全局唯一标识符
+globally unique identifier/GUID@全局唯一标识符
+globally unique identifier/GUID@全局唯一标识符
+gloss map@光泽贴图
+gloss map@光泽贴图
+glyph@字形
+GNU diff tools package@GNU区别工具包
+GNU General Public License/GPL@GNU通用公共许可证
+GNU General Public License/GPL@GNU通用公共许可证
+GNU Lesser General Public License/LGPL@GNU宽通公共许可证
+goal-based game@基于目标的游戏
+gold master@母片
+Gouraud shading@高氏着色法
+GPU command list@GPU命令表
+GPU pipeline@GPU管道
+graph@图
+graph@图
+graphical shading language@图形化着色语言
+graphical user interface/GUI@图形用户界面
+graphical user interface/GUI@图形用户界面
+graphical user interface/GUI@图形用户界面
+graphical user interface/GUI@图形用户界面
+graphical user interface/GUI@图形用户界面
+graphical user interface/GUI@图形用户界面
+graphical user interface/GUI@图形用户界面
+graphics device interface@图形设备接口
+Graphics Processing Unit/GPU@图形处理器
+graphics@图形
+Grassmann product@格拉斯曼积
+gravity@引力
+great circle@大圆
+grenade@手榴弹
+GUI-based programming@视觉化编程
+Hadamard product@阿达马积
+Hadamard product@阿达马积
+hair@头发
+half-space@半空间
+handedness@利手
+handle@句柄
+handle@句柄
+hard real-time system@硬实时系统
+hardware state@硬件状态
+hardware transform and lighting/hardware T & L@硬件变换及光照
+hash function@散列函数
+hash table@散列表
+hash table@散列表
+hashed string identifier@字符串散列标识符
+hasing@散列法
+header file@头文件
+heads-up display/HUD@平视显示器
+heads-up display/HUD@平视显示器
+heads-up display/HUD@平视显示器
+heads-up display/HUD@平视显示器
+heads-up display/HUD@平视显示器
+heap allocator@堆分配器
+heap memory@堆内存
+height field terrain@高度场地形
+height field terrain@高度场地形
+height map@高度贴图
+Hertz/Hz@赫兹
+Hessian normal form@海赛正规式
+hex editor@十六进制编辑器
+hexadecimal@十六进制
+high dynamic range/HDR lighting@高动态范围光照
+high dynamic range/HDR lighting@高动态范围光照
+high dynamic range/HDR@高动态范围
+high-level game flow@高级游戏流程
+high-level shading language/HLSL@高级着色语言
+high-resolution timer@高分辨率计时器
+hinge constraint@铰链约束
+homogeneous clip space@齐次裁剪空间
+homogeneous clip space@齐次裁剪空间
+homogeneous coordinates@齐次坐标
+homogeneous coordinates@齐次坐标
+homogeneous coordinates@齐次坐标
+hook function@钩子函数
+human interface device/HID@人体学接口设备
+human interface device/HID@人体学接口设备
+hybrid build@混合生成版本
+hypersphere@超球
+identity matrix@单位矩阵
+image-based lighting@基于图像的光照
+image-based lighting@基于图像的光照
+imaging rectangle@成像矩形
+imperative language@命令式语言
+impulse@冲量
+impulse@冲量
+in-game cinematics/IGC@游戏内置电影
+in-game cinematics/IGC@游戏内置电影
+in-game cinematics/IGC@游戏内置电影
+in-game console@游戏内置主控台
+in-game menu setting@游戏内置菜单设置
+in-game menu@游戏内置菜单
+in-game profiling@游戏内置性能剖析
+independent variable@自变量
+independent variable@自变量
+index array@索引数组
+index buffer@索引缓冲
+index buffer@索引缓冲
+indexed triangle list@索引化三角形表
+indirect lighting@间接光照
+inertia tensor@惯性张量
+inheritance@继承
+inheritance@继承
+inheritance@继承
+inline assembly@内联汇编
+inline function@内联函数
+inline function@内联函数
+inline function@内联函数
+inner product@内积
+input event detection@输入事件检测
+input re-mapping@输入重新映射
+instance@实例
+instruction cache/I-cache@指令缓存
+instrumental profiler@测控式剖析器
+instrumentation@测控
+integrated development environment/IDE@集成开发环境
+intensity@强度
+intensity@强度
+interest registration@关注登记
+interface（Optics）@界面（光学）
+interference@干涉
+internationalization@国际化
+interpenetrate@互相穿插
+interpreted language@直译式语言
+interrupt service routine/ISR@中断服务程序
+interrupt@中断
+interrupt@中断
+intersection@相交
+intrinsic@内部函数
+intrinsic@内部函数
+intrusive list@侵入式表
+inverse kinematics/IK@逆运动学
+inverse kinematics/IK@逆运动学
+inverse kinematics/IK@逆运动学
+inverse matrix@逆矩阵
+inverse quaternion@逆四元数
+isotropic matrix@各向同性矩阵
+iterator@迭代器
+iterator@迭代器
+job model@作业模型
+job model@作业模型
+join@汇合
+join@汇合
+joint binding@关节绑定
+joint index@关节索引
+joint index@关节索引
+Joint Photographic Experts Group/JPEG@联合图像专家小组
+joint scaling@关节缩放
+joint weight@关节权重
+joint@关节
+joint@关节
+kd tree@kd树
+kd tree@kd树
+kerning@字距调整
+key frame@关键帧
+key pose@关键姿势
+key-value pair@键值对
+key-value pair@键值对
+key-value pair@键值对
+kinetic energy@动能
+late binding@后期绑定
+latency@潜伏期
+latent function@latent函数
+layer@图层
+layered architecture@分层架构
+lead engineer@首席工程师
+least significant byte/LSB@最低有效字节
+left-hand rule@左手法则
+left-handed coordinate system@左手坐标系
+legacy asset@遗留资产
+lens flare@镜头光晕
+level load region@关卡加载区域
+level-of-detail/LOD@细节层次
+level-of-detail/LOD@细节层次
+level-of-detail/LOD@细节层次
+level@关卡
+lexical scope@词法作用域
+library@程序库
+library@程序库
+light emitting diode/LED@发光二极管
+light map@光照贴图
+light map@光照贴图
+light map@光照贴图
+light map@光照贴图
+light source@光源
+light source@光源
+light space@光源空间
+light transport model@光传输模型
+light transport model@光传输模型
+light@光
+lighting artist@灯光师
+lighting@光照
+line of sight@视线
+line of sight@视线
+line segment@线段
+line@直线
+linear acceleration@线性加速度
+linear alegbra@线性代数
+linear congruential generator/LCG@线性同余产生器
+linear dynamics@线性动力学
+linear dynamics@线性动力学
+linear interpolation/LERP blending@线性插值混合
+linear interpolation/LERP@线性插值
+linear interpolation/LERP@线性插值
+linear interpolation/LERP@线性插值
+linear interpolation/LERP@线性插值
+linear momentum@线性动量
+linear probing@线性探查
+linear search@线性搜寻
+linear velocity@线性速度
+linkage@链接规范
+linked list@链表
+linked list@链表
+linker@链接器
+little-endian@小端
+load-and-stay-resident/LSR resource@载入并驻留资源
+load-and-stay-resident/LSR resource@载入并驻留资源
+local illumination model@局部光照模型
+local pose@局部姿势
+local space@局部空间
+local space@局部空间
+local timeline@局部时间线
+local timeline@局部时间线
+local variable@局部变量
+localization@本地化
+localization@本地化
+locator spawner@定位器生成器
+locator@定位器
+locator@定位器
+locomotion cycle@运动周期
+log@日志
+lookup table/LUT@查找表
+looping animation@循环动画
+looping animation@循环动画
+lossy compression@有损压缩
+Low Overhead Profiler/LOP@低开销剖析器
+low pass filter@低通滤波器
+low-level renderer@低阶渲染器
+LU decomposition@LU分解
+macro@宏
+macro@宏
+magnitude （integer）@模
+magnitude （vector）@模
+main RAM@主内存
+mantissa@尾数
+map@地图
+map@映射
+markup language@置标语言
+mask@掩码
+massively multiplayer online game/MMOG@大型多人在线游戏
+massively multiplayer online game/MMOG@大型多人在线游戏
+master thread@主控线程
+material system@材质系统
+material@材质
+material@材质
+math library@数学库
+matrix concatenation@矩阵串接
+matrix multiplication@矩阵乘法
+matrix palette@矩阵调色板
+matrix palette@矩阵调色板
+matrix@矩阵
+mechanics@力学
+mechnical viscous damper@机械黏滞阻尼器
+medium@介质
+member variable@成员变量
+memory access pattern@内存访问模式
+memory allocation hook@内存分配钩子
+memory allocation pattern@内存分配模式
+memory analysis tool@内存分析工具
+memory corruption@内存损坏
+memory fragmentation@内存碎片
+memory layout@内存布局
+memory layout@内存布局
+memory leak@内存泄漏
+memory leak@内存泄漏
+memory management@内存管理
+memory management@内存管理
+memory management@内存管理
+memory management@内存管理
+memory management@内存管理
+memory relocation@内存重定位
+memory tracking tool@内存追踪工具
+memory usage@内存用量
+merge stage@合并阶段
+merge@合并
+Mersenne Twister/MT@梅森旋转算法
+mesh instance@网格实例
+mesh@网格
+mesh@网格
+message map@消息映射
+message pump@消息泵
+message pump@消息泵
+message pump@消息泵
+message-passing system@消息传递系统
+message@消息
+message@消息
+meta-information@元信息
+metachannel@元通道
+metadata@元数据
+method table （Python）@方法表
+mid-point Euler@中点欧拉
+middleware@中间件
+Minkowski difference@闵可夫斯基差
+Minkowski sum@闵可夫斯基和
+mip level@渐远纹理级数
+mipmap@多级渐远纹理
+mirror mode@镜像模式
+mix-in class@嵌入类
+mix-in class@嵌入类
+mod society@mod社区
+mod society@mod社区
+model space@模型空间
+model space@模型空间
+model-to-world matrix@模型至世界矩阵
+model-to-world matrix@模型至世界矩阵
+model-view matrix@模型观察矩阵
+model@建模
+moiré banding pattern@莫列波纹
+moment of inertia@转动惯量
+monolithic class hierarchy@单一庞大的类层次结构
+Moore's Law@摩尔定律
+morph target animation@变形目标动画
+morph target animation@变形目标动画
+most significant bit/MSB@最高有效位
+most significant byte/MSB@最高有效字节
+mother of all pseudo-random number generator@所有伪随机数产生器之母
+motion blur@动态模糊
+motion capture actor@动画捕捉演员
+motion extration@动作提取
+movie capture@录像
+movie player@影片播放器
+moving average@移动平均
+multi-byte value@多字节值
+multibyte character set/MBCS@多字节字符集
+multicast@多播
+multimedia extension/MMX@多媒体扩展
+multiplayer networking@多人网络
+multiple check-out@多人签出
+multiple inheritance/MI@多重继承
+multiple inheritance/MI@多重继承
+multiprocessor@多处理器
+multisample antialiasing/MSAA@多重采样抗锯齿
+multithreaded script@多线程脚本
+mutex@互斥锁
+native class@原生类
+natural number@自然数
+navigation@导航
+nearest neighbor@最近邻
+network replication@网络复制
+networked multiplayer game loop@网络多人游戏循环
+networked multiplayer@网络多人
+networking@网络
+Newton's law of restitution@牛顿恢复定律
+Newton's laws of motion@牛顿运动定律
+Newton（unit）@牛顿（单位）
+non-player character/NPC@非玩家角色
+non-player character/NPC@非玩家角色
+noninteractive sequence/NIS@非交互连续镜头
+noninterative sequence/NIS@非交互连续镜头
+nonuniform rational B-spline/NURBS@非均匀有理B样条
+nonuniform scaling@非统一缩放
+normal map@法线贴图
+normal map@法线贴图
+normal map@法线贴图
+normal vector@法矢量
+normal vector@法矢量
+normalization@归一化
+normalized screen coordinates@归一化屏幕坐标
+normalized time@归一化时间
+normed division algebra@赋范可除代数
+numeric base@数值底数
+numeric representation@数值表达形式
+numerical integration@数值积分
+numerical integration@数值积分
+numerical method@数值方法
+numerical@数值式
+object oriented programming/OOP@面向对象编程
+object reference@对象引用
+object space@物体空间
+object space@物体空间
+object spawning@对象生成
+object state caching@对象状态缓存
+object-based language@基于对象语言
+object-centric@以对象为中心
+object-oriented language@面向对象语言
+object-oriented language@面向对象语言
+object-oriented scripting language@面向对象脚本语言
+object@对象
+objective@目标
+occlusion culling@遮挡剔除
+occlusion culling@遮挡剔除
+occlusion culling@遮挡剔除
+occlusion volume@遮挡体积
+occlusion@遮挡
+octree@八叉树
+octree@八叉树
+octree@八叉树
+omni-directional light@全向光
+one-dimensional LERP blending@一维线性插值混合
+online multiplayer@在线多人
+online user profile@线上用户设定档
+opacity@不透明度
+opacity@不透明度
+opaque@不透明的
+Open Dynamics Engine/ODE@开放动力学引擎
+Open Dynamics Engine/ODE@开放动力学引擎
+Open Dynamics Engine/ODE@开放动力学引擎
+open hashing@开放式散列
+open source@开源
+OpenGL shading language/GLSL@OpenGL着色语言
+operating system/OS@操作系统
+optimization@优化
+order@阶数
+ordinary differential equation/ODE@常微分方程
+oriented bounding box/OBB@定向包围盒
+oriented bounding box/OBB@定向包围盒
+origin@原点
+orthographic projection@正射投影
+orthographic projection@正射投影
+orthographic projection@正射投影
+orthographic projection@正射投影
+orthonormal matrix@标准正交矩阵
+out of memory@内存不足
+out of memory@内存不足
+out of memory@内存不足
+out of memory@内存不足
+out of memory@内存不足
+out of memory@内存不足
+outer product@外积
+overdraw@覆绘
+overlay@覆盖层
+overlay@覆盖层
+package@包
+packing@包裹
+padding@填充
+painter's algorithm@画家算法
+parallax mapping@视差贴图法
+parallax occlusion mapping/POM@视差遮挡贴图法
+parallel processing@并行处理
+parallelism@并行
+parallelization@并行化
+parametric equation@参数方程
+Pareto principle@帕累托法则
+partial-skeleton blending@骨骼分部混合
+particle effect@粒子效果
+particle emitter@粒子发射器
+particle system data@粒子系统数据
+particle system@粒子系统
+particle system@粒子系统
+patch@补丁
+patch@面片
+path finding@路径搜寻
+path finding@路径搜寻
+path node@路径节点
+path separator@路径分隔符
+path@路径
+peer-to-peer@点对点
+peer-to-peer@点对点
+penalty force@惩罚性力
+penumbra@半影
+penumbra@半影
+per-pixel lighting@逐像素光照
+per-vertex animation@每顶点动画
+per-vertex animation@每顶点动画
+perception system@感知系统
+perception@感知
+perception@感知
+perfectly elastic collision@完全弹性碰撞
+perfectly inelastic collision@完全非弹性碰撞
+persistence@持久性
+persistent world@持久世界
+persistent world@持久世界
+perspective foreshortening@透视收缩
+perspective projection@透视投影
+perspective projection@透视投影
+perspective-correct interpolation@透视校正插值
+phase@相位
+phased update@分阶段更新
+Phong reflection model@Phong氏反射模型
+Physics Abstraction Layer/PAL@物理抽象层
+physics engine@物理引擎
+physics middleware@物理中间件
+physics puzzle game@物理解谜游戏
+physics system@物理系统
+physics world@物理世界
+physics-driven body@物理驱动刚体
+picture element/pixel@像素
+piecewise linear approximation@分段线性逼近
+pitch@俯仰角
+pivotal movement@轴转移动
+pixel shader@像素着色器
+pixel shader@像素着色器
+pixel shader@像素着色器
+plain old data structure/PODS@POD结构
+plane lamina@平面薄片
+plane@平面
+plane@平面
+platform independence layer@平台独立层
+platformer@平台游戏
+playback rate@播放速率
+player character/PC@玩家角色
+player mechanics@玩家机制
+player prediction@玩家预测
+point light@点光
+point-normal form@点法式
+point-to-point constraint@点对点约束
+point@点
+pointer fix-up table@指针修正表
+pointer@指针
+polarization@极化
+poll@轮询
+polygon soup@多边形汤
+polymorphism@多态
+polymorphism@多态
+polymorphism@多态
+pool allocator@池分配器
+pool allocator@池分配器
+pool allocator@池分配器
+pool allocator@池分配器
+Portable Network Graphics/PNG@便携式网络图形
+Portable Network Graphics/PNG@便携式网络图形
+portal@入口
+portal@入口
+portal@入口
+pose interpolation@姿势插值
+pose@姿势
+position spawner@位置生成器
+position vector@位置矢量
+position vector@位置矢量
+position vector@位置矢量
+positive rotation@正旋
+post-load initialization@载入后初始化
+post-transform vertex cache@变换后顶点缓存
+postincrement@后置递增
+potential energy@势能
+potentially visible set/PVS@潜在可见集
+powered constraint@富动力约束
+precomputed radiance transfer/PRT@预计算辐射传输
+precomputed radiance transfer/PRT@预计算辐射传输
+predictability@可预测性
+preemptive multitasking@抢占式多任务
+preemptive multitasking@抢占式多任务
+preincrement@前置递增
+preprocessor@预处理器
+primitive submission@提交图元
+print statement@打印语句
+print statement@打印语句
+priority queue@优先队列
+priority@优先权
+prismatic constraint@滑移铰
+procedural animation@程序式动画
+procedural animation@程序式动画
+procedural animation@程序式动画
+procedural language@过程式语言
+procedure@程序
+process@行程
+producer@制作人
+profile sampling@剖析采样
+profiler@剖析器
+profiling tool@剖析工具
+program stack@程序堆栈
+programmable shader@可编程着色器
+programmer error@程序员错误
+progressive mesh@渐进网格
+project file@项目文件
+projectile@抛射物
+projectile@抛射物
+projectile@抛射物
+projection@投影
+prologue code@初构代码
+property class@属性类
+property grid@属性网格
+property-centric@以属性为中心
+pseudo-random@伪随机
+publisher@发行商
+pulley@滑轮
+pure component model@纯组件模型
+pure virtual function@纯虚函数
+Pythagorean theorem@勾股定理
+quadrant@象限
+quadrant@象限
+quadratic probing@二次探查
+quadrilateral/quad@四边形
+quadtree@四叉树
+quadtree@四叉树
+Quake Engine@雷神之锤引擎
+quantization@量化
+quantization@量化
+quantum effect@量子效应
+quaternion concatenation@四元数串接
+quaternion multiplication@四元数乘法
+quaternion@四元数
+quaternion@四元数
+quaternion@四元数
+queue@队列
+quick time event/QTE@快速反应事件
+race condition@竞态条件
+race condition@竞态条件
+racing game@竞速游戏
+radiosity@辐射度算法
+radius vector@矢径
+radius vector@矢径
+ragdoll@布娃娃
+ragdoll@布娃娃
+ragdoll@布娃娃
+ragdoll@布娃娃
+random number@随机数
+rapid iteration@快速迭代
+rapid iteration@快速迭代
+rapid prototype@迅速原型
+raster operations stage/ROP@光栅运算阶段
+rasterization@光栅化
+ray cast@光线投射
+ray cast@光线投射
+ray tracing@光线追踪
+ray@光线
+re-entrant@可重入
+read only data segment@只读数据段
+real timeline@真实时间线
+real-time strategy/RTS@实时策略游戏
+real-time system@实时系统
+real-time@实时
+rebasing（Git）@衍合
+red-black tree@红黑树
+reference counting@引用计数
+reference pose@参考姿势
+referential integrity@引用完整性
+referential integrity@引用完整性
+reflect@反射
+reflection@反射
+reflection@反射
+reflection@镜像
+reflective language@反射式语言
+refract@折射
+region@区域
+register@寄存器
+register@寄存器
+register@寄存器
+relational database@关联式数据库
+relationship graph@关系图
+relative axis@相对性轴
+relative path@相对路径
+relative screen coordinates@屏幕相对坐标
+relativistic effect@相对论性效应
+relocation@重定位
+render loop@渲染循环
+render packet@渲染包
+render state leak@渲染状态泄漏
+render state@渲染状态
+render target@渲染目标
+render to texture/RTT@渲染到纹理
+rendering engine@渲染引擎
+rendering engine@渲染引擎
+rendering pipeline@渲染管道
+repository@版本库
+resolution@分辨率
+resource build rule@资源生成规则
+resource chunk allocator@资源组块分配器
+resource compiler@资源编译器
+resource conditioning pipeline/RCP@资源调节管道
+resource database@资源数据库
+resource dependency@资源依赖关系
+resource file format@资源文件格式
+resource lifetime@资源生命期
+resource lifetime@资源生命期
+resource linker@资源链接器
+resource management@资源管理
+resource manager@资源管理器
+resource registry@资源注册表
+rest pose@放松姿势
+restitution coefficient@恢复系数
+return address@返回地址
+Revision Control System/RCS@版本控制系统
+right-hand rule@右手法则
+right-handed coordinate system@右手坐标系
+rigid body dynamics@刚体动力学
+rigid body dynamics@刚体动力学
+rigid body dynamics@刚体动力学
+rigid body dynamics@刚体动力学
+rigid body@刚体
+rigid body@刚体
+rigid hierarchical animation@刚性层阶式动画
+roaming volume@漫游体积
+roll@滚动角
+rotation matrix@旋转矩阵
+rotation@旋转
+row matrix@行矩阵
+rumble@震动反馈
+Runge-Kutta method@Runge-Kutta方法
+running average@移动平均
+runtime engine architecture@运行时引擎架构
+runtime object model@运行时对象模型
+runtime object model@运行时对象模型
+runtime programmer@运行时程序员
+runtime resource management@运行时资源管理
+runtime scripting language@运行时脚本语言
+runtime type identification/RTTI@运行时类型识别
+S3 texture compression/S3TC@S3纹理压缩
+S3 texture compression/S3TC@S3纹理压缩
+sample@采样
+sample@采样
+sampling rate@采样率
+sandbox game@沙箱游戏
+saturation@饱和度
+save anywhere@任何地方皆可存档
+saved game@游戏存档
+scalar product@标量积
+scalar@标量
+scale factor@缩放因子
+scale factor@缩放因子
+scale factor@缩放因子
+scaling matrix@缩放矩阵
+scatter@散射
+scatter@散射
+scene description@场景描述
+scene graph@场景图
+scene graph@场景图
+scene graph@场景图
+scene graph@场景图
+scratch pad@便笺内存
+screen mapping@屏幕映射
+screen mapping@屏幕映射
+screen shot@屏幕截图
+screen space@屏幕空间
+script@脚本
+scripting language@脚本语言
+scripting system@脚本系统
+search path@搜寻路径
+seek time@寻道时间
+selection@选取
+semantic@语义
+semaphore@信号标
+separating axis theorem@分离轴定理
+sequence@序列
+sequence@序列
+serialization@序列化
+serialize@序列化
+service object@服务对象
+set@集合
+shader model@着色器模型
+shader register@着色器寄存器
+shader@着色器
+shader@着色器
+shader@着色器
+shading@着色
+shadow map@阴影贴图
+shadow rendering@阴影渲染
+shadow rendering@阴影渲染
+shadow volume extrusion@阴影体积拉伸
+shadow volume@阴影体积
+shape cast@形状投射
+shear@切变
+signed integer@有符号整数
+significant figure@有效数字
+silhouette edge@轮廓边缘
+silhouette edge@轮廓边缘
+simplex@单纯体
+simplification@简化
+simulation game@模拟类游戏
+simulation island@模拟岛
+single instruction multiple data/SIMD@单指令多数据
+single instruction multiple data/SIMD@单指令多数据
+single instruction multiple data/SIMD@单指令多数据
+single instruction single data/SISD@单指令单数据
+single-frame allocator@单帧分配器
+single-screen multiplayer@单屏多人
+singleton class@单例类
+singleton@单例
+singleton@单例
+singly-linked list@单向链表
+skel control（UE3）@骨骼控制（虚幻引擎3）
+skeletal animation data@骨骼动画数据
+skeletal animation@骨骼动画
+skeletal mesh@骨骼网格
+skeleton hierarchy@骨骼层阶结构
+skeleton@骨骼
+skeleton@骨骼
+skin@皮肤
+skinned animation@蒙皮动画
+skinning matrix@蒙皮矩阵
+skinning weight@蒙皮权重
+skinning weight@蒙皮权重
+skinning@蒙皮
+skinning@蒙皮
+skinning@蒙皮
+sky box@天空盒
+sky dome@天空穹顶
+sky rendering@天空渲染
+sleep@休眠
+slow motion mode@慢动作模式
+small memory allocator@小块内存分配器
+smart pointer@智能指针
+smooth transition@圆滑过渡
+soft real-time system@软实时系统
+soft real-time@软实时
+software development kit/SDK@软件开发包
+software engineering@软件工程
+software layer@软件层
+software object model@软件对象模型
+solution file@解决方案文件
+sound designer@音效设计师
+Source Code Control System/SCCS@源代码控制系统
+Source Engine@Source引擎
+source file@源文件
+space partitioning@空间划分
+spawner@生成器
+special orthogonal matrix@特殊正交矩阵
+spectral color@光谱颜色
+spectral plot@光谱图
+specular color@镜面颜色
+specular highlight@镜面高光
+specular map@镜面贴图
+specular mask@镜面遮罩
+specular power map@镜面幂贴图
+specular term@镜面反射项
+specular@镜面反射
+speed@速率
+sphere@球体
+sphere@球体
+spherical coordinate system@球坐标系
+spherical coordinates@球坐标
+spherical environment map@球面环境贴图
+spherical harmonic basis function@球谐基函数
+spherical harmonic function@球谐函数
+spherical linear interpolation/SLERP@球面线性插值
+splay tree@伸展树
+spline@样条
+spline@样条
+spline@样条
+split-screen multiplayer@切割屏多人
+spot light@聚光
+spring constant@弹簧常数
+spring-mass system@弹簧质点系统
+sprite animation@精灵动画
+SQT transformation@SQT变换
+SQT transformation@SQT变换
+SQT transformation@SQT变换
+SSE register@SSE寄存器
+stability@稳定性
+stack allocator@堆栈分配器
+stack allocator@堆栈分配器
+stack allocator@堆栈分配器
+stack frame@堆栈帧
+stack frame@堆栈帧
+stack trace@堆栈跟踪
+stack@堆栈
+stage@舞台
+stance variation@站姿变化
+standard template library/STL@标准模板库
+standard template library/STL@标准模板库
+start-up project@启动项目
+static geometry@静态几何体
+static lighting@静态光照
+static lighting@静态光照
+static member@静态成员
+statically typed function binding@静态函数类型绑定
+statistical profiler@统计式剖析器
+stencil buffer@模板缓冲
+stencil buffer@模板缓冲
+stencil buffer@模板缓冲
+stepping@单步执行
+stiff spring constraint@刚性弹簧约束
+story-based game@基于故事的游戏
+stream out@流输出
+streaming SIMD extensions/SSE@单指令多数据流扩展
+streaming SIMD extensions/SSE@单指令多数据流扩展
+streaming@串流
+streaming@串流
+streaming@串流
+streaming@串流
+stride@分散对齐
+string interning@字符串扣留
+string@字符串
+studio@工作室
+subclass@子类
+subdivision surface@细分曲面
+subdivision surface@细分曲面
+submesh@子网格
+subsurface scattering/SSS@次表面散射
+subsurface scattering/SSS@次表面散射
+subsurface scattering/SSS@次表面散射
+Super Nintendo Entertainment System/SNES@超级任天堂
+superclass@超类
+support function@支持函数
+supporting vertex@支持顶点
+surface@表面
+surface@表面
+sweep and prune@扫掠裁减
+swept shape@扫掠形状
+symbolic link@符号链接
+synchronous file I/O@同步文件I/O
+synergistic processing unit/SPU@协同处理器
+synergistic processing unit/SPU@协同处理器
+T-pose@T字型姿势
+table （Lua）@表
+Tagged Image File Format/TIFF@标记图像文件格式
+Tagged Image File Format/TIFF@标记图像文件格式
+tangent space@切线空间
+target hardware@目标硬件
+targeted movement@靶向移动
+taxonomy@分类学
+Taylor series@泰勒级数
+tearing@画面撕裂
+tearing@画面撕裂
+technical director/TD@技术总监
+technical requirements checklist/TRC@技术要求清单
+teletype/TTY@电传打字机
+template metaprogramming/TMP@模板元编程
+temporal coherency@时间一致性
+terrain@地形
+tessellation@镶嵌
+texel density@纹素密度
+texel@纹素
+text editor@文本编辑器
+text rendering@文本渲染
+text/code segment@代码段
+texture addressing mode@纹理寻址模式
+texture artist@纹理艺术家
+texture atlas@纹理图谱
+texture coordinates@纹理坐标
+texture coordinates@纹理坐标
+texture filtering@纹理过滤
+texture format@纹理格式
+texture map@纹理贴图
+texture map@纹理贴图
+texture sampler@纹理采样器
+texture scrolling@纹理滚动
+texture space@纹理空间
+texture@纹理
+texture@纹理
+texture@纹理
+texture@纹理
+the rendering equation@渲染方程
+third person game@第三人称游戏
+thought-controlled device@思想控制设备
+thread synchronization@线程同步
+three-way merge tool@三路合并工具
+three-way merge@三路合并
+throughput@吞吐量
+time delta@时间增量
+time index@时间索引
+time of impact/TOI@冲击时间
+time of impact/TOI@冲击时间
+time scale@时间比例
+time scale@时间比例
+time stamp@时戳
+time step@时步
+time step@时步
+time unit@时间单位
+time unit@时间单位
+time-slice@时间片
+time-slice@时间片
+tone mapping@色调映射
+tool chain@工具链
+tool programmer@工具程序员
+tool stage@工具阶段
+tool-side object model@工具方对象模型
+tool@工具
+tool@工具
+top-level exception handler@顶层异常处理函数
+torque@力矩
+torque@力矩
+transformation matrix@变换矩阵
+transformation matrix@变换矩阵
+transformation matrix@变换矩阵
+transition matrix@过渡矩阵
+transitional state@过渡状态
+translation matrix@平移矩阵
+translation unit@翻译单元
+translation@平移
+translucent@半透明的
+transmit@传播
+transparent@透明的
+transpose matrix@转置矩阵
+tree@树
+tree@树
+triangle fan@三角形扇
+triangle list@三角形表
+triangle mesh@三角形网格
+triangle setup@三角形建立
+triangle strip@三角形带
+triangle strip@三角形带
+triangle traversal@三角形遍历
+triangulation@三角化
+trigger volume@触发体积
+trilinear@三线性
+triple buffering@三缓冲法
+Truevision Advanced Raster Graphics Adapter/TARGA@Truevision高级光栅图形适配器
+Truevision Advanced Raster Graphics Adapter/TARGA@Truevision高级光栅图形适配器
+Truevision Graphics Adapter/TGA@Truevision图形适配器
+truncate@截尾
+tunneling@隧穿
+two's complement@二补数
+type punning@类型双关
+umbra@本影
+unconstrained rigid body@无约束刚体
+undelete@撤销删除
+unified memory architecture@统一内存架构
+Unified Modeling Language/UML@统一建模语言
+unique identifier@唯一标识符
+unit quaternion@单位四元数
+unit vector@单位矢量
+Unreal Engine 3/UE3@虚幻引擎3
+Unreal Engine@虚幻引擎
+unresolved reference@未解决引用
+unsigned integer@无符号整数
+user error@用户错误
+vector addition@矢量加法
+vector function@矢量函数
+vector processor@矢量处理器
+vector product@矢量积
+vector projection@矢量投影
+vector subtraction@矢量减法
+vector unit@矢量单元
+vector@矢量
+vehicle@载具
+vehicle@载具
+vehicle@载具
+velocity Verlet@速度韦尔莱
+verbosity level@冗长级别
+verbosity level@冗长级别
+Verlet integration@韦尔莱积分
+version control system@版本控制系统
+version control@版本控制
+vertex array@顶点数组
+vertex attribute@顶点属性
+vertex bitangent@副切线矢量
+vertex buffer@顶点缓冲
+vertex buffer@顶点缓冲
+vertex cache optimizer@顶点缓存优化器
+vertex format@顶点格式
+vertex normal@顶点法矢量
+vertex shader@顶点着色器
+vertex shader@顶点着色器
+vertex shader@顶点着色器
+vertex tangent@顶点切线矢量
+vertex texture fetch/VTF@顶点纹理拾取
+vertex@顶点
+vertical blanking interval@垂直消隐区间
+vertical blanking interval@垂直消隐区间
+video RAM@显存
+view matrix@观察矩阵
+view space@观察空间
+view space@观察空间
+view volume@观察体积
+view-to-world matrix@观察至世界矩阵
+viewport@视区
+vignette@晕影
+virtual camera@虚拟摄像机
+virtual camera@虚拟摄像机
+virtual function table/vtable@虚函数表
+virtual function@虚函数
+virtual function@虚函数
+virtual inheritance@虚继承
+virtual machine@虚拟机
+virtual memory@虚拟内存
+virtual memory@虚拟内存
+virtual table pointer/vpointer@虚表指针
+viscous damping coefficient@黏滞阻尼系数
+visibility determination@可见性判断
+visibility determination@可见性判断
+visual effect@视觉效果
+visual effect@视觉效果
+visual property@视觉性质
+visual representation@视觉表达形式
+visualize@可视化
+voice actor@配音演员
+voice over internet protocol/VoIP@IP电话
+voice over IP/VoIP@网络语音
+volume specifier@卷指示符
+volume texture@体积纹理
+volumetric cloud@体积云
+w-buffer@w缓冲
+wall clock time@挂钟时间
+wall clock time@挂钟时间
+watch window@监视窗口
+water rendering@水体渲染
+water surface simulation@水面模拟
+wavelength@波长
+weighted average@加权平均
+welding@焊接
+wide character set/WCS@宽字符集
+Wiimote@Wii遥控器
+Wiimote@Wii遥控器
+Wiimote@Wii遥控器
+Wiimote@Wii遥控器
+winding order@缠绕顺序
+Windows Bitmap/BMP@视窗位图
+Windows Bitmap/BMP@视窗位图
+Windows registry@Windows注册表
+wizard@向导
+world chunk@世界组块
+world chunk@世界组块
+world chunk@世界组块
+world editor@世界编辑器
+world matrix@世界矩阵
+world query@世界查询
+world space texel desnity@世界空间纹素密度
+world space@世界空间
+world space@世界空间
+wrap mode@缠绕模式
+write-back cache@回写式缓存
+write-through cache@透写式缓存
+writer@作家
+Xbox 360 software development kit/XDK@Xbox 360开发套件
+Xross Media Bar/XMB（PS3）@跨界导航菜单
+yaw@偏航角
+z prepass@深度预渲染步骤
+z-fighting@深度冲突
+zenith@天顶
+ZIP archive@ZIP存档
+zoom in@拉近镜头
+über format@über格式
+Absolute value rectification@绝对值整流
+Activation Function@激活函数
+Accumulated error backpropagation@累积误差反向传播
+Acoustic modeling@声学建模
+Acquisition funtion@采集函数
+Actor-critic method@行为-评判方法
+Adaptive bitrate (ABR) algorithm@自适应比特率算法
+Adaptive Resonance Theory/ART@自适应谐振理论
+Addictive model@加性模型
+Adversarial example@对抗样本
+Adversarial Networks@对抗网络
+Affine Layer@仿射层
+Affinity matrix@亲和矩阵
+Agent@智能体
+Algorithm@算法
+Alpha-beta pruning@α-β剪枝
+Alternative splicing dataset@选择性剪接数据集
+Analytic gradient@解析梯度
+Ancestral Sampling@原始采样
+Annealed importance sampling@退火重要采样
+Anomaly detection@异常检测
+Application-speci?c integrated circuit@专用集成电路
+Approximate Bayesian computation@近似贝叶斯计算
+Approximate inference@近似推断
+Approximation@近似
+Architecture@架构
+Area Under ROC Curve/AUC@Roc 曲线下面积
+Artificial General Intelligence/AGI@通用人工智能
+Artificial Intelligence/AI@人工智能
+Association analysis@关联分析
+Asymptotically unbiased@渐近无偏
+Asynchoronous Stochastic Gradient Descent@异步随机梯度下降
+Attention mechanism@注意力机制
+Attribute conditional independence assumption@属性条件独立性假设
+Attribute space@属性空间
+Attribute value@属性值
+Augmented Lagrangian@增广拉格朗日法
+Autoencoder@自编码器
+Automatic di?erentiation@自动微分
+Automatic speech recognition/ASR@自动语音识别
+Automatic summarization@自动摘要
+Auto-regressive network@自回归网络
+Average gradient@平均梯度
+Average-Pooling@平均池化
+Backpropagation/BP@反向传播
+Backpropagation Through Time@通过时间的反向传播
+Backward induction@逆向归纳
+Bag of words/BoW@词袋
+Base learner@基学习器
+Base learning algorithm@基学习算法
+Batch@批次
+Batch Normalization/BN@批次归一化
+Bayes decision rule@贝叶斯判定准则
+Bayes error@贝叶斯误差
+Bayes Model Averaging/BMA@贝叶斯模型平均
+Bayes optimal classifier@贝叶斯最优分类器
+Bayesian decision theory@贝叶斯决策论
+Bayesian network@贝叶斯网络
+Bayesian optimization@贝叶斯优化
+Beam search@束搜索
+Bechmark@基准
+Belief network@信念网络
+Bellman equation@贝尔曼方程
+Between-class scatter matrix@类间散度矩阵
+Bias@偏置 / 偏差
+Biased@有偏
+Biased importance sampling@有偏重要采样
+Bias-variance decomposition@偏差-方差分解
+Bias-Variance Dilemma@偏差 - 方差困境
+Bi-directional Long-Short Term Memory/Bi-LSTM@双向长短期记忆
+Binary classification@二元分类
+Binary relation@二元关系
+Binary sparse coding@二值稀疏编码
+Binomial distribution@二项分布
+Binomial test@二项检验
+Bi-partition@二分法
+Block coordinate descent@块坐标下降
+Block Gibbs Sampling@块吉布斯采样
+Boilerplate code@样板代码
+Boltzmann distribution@玻尔兹曼分布
+Boltzmann machine@玻尔兹曼机
+Bootstrap sampling@自助采样法／可重复采样／有放回采样
+Bootstrapping@自助法
+Bottleneck layer@瓶颈层
+Bounding Boxes@边界框
+Break-Event Point/BEP@平衡点
+Bridge sampling@桥式采样
+Broadcasting@广播
+Burning-in@磨合
+Calculus of variations@变分法
+Calibration@校准
+Cascade/Coalesced@级联
+Cascade-Correlation@级联相关
+Categorical distribution@范畴分布
+Causal factor@因果因子
+Causal modeling@因果模型
+Centered difference@中心差分
+Central limit theorem@中心极限定理
+Chain rule@链式法则
+Chordal graph@弦图
+Class-conditional probability@类条件概率
+Classification and regression tree/CART@分类与回归树
+Classifier@分类器
+Class-imbalance@分类不平衡
+Clip gradient@梯度截断
+Clique potential@团势能
+Closed-form@闭式
+Cluster@簇/类/集群
+Cluster analysis@聚类分析
+Clustering ensemble@聚类集成
+Co-adapting@共适应
+Coding matrix@编码矩阵
+Collaborative filtering@协同过滤
+COLT@国际学习理论会议
+Committee-based learning@基于委员会的学习
+Competitive learning@竞争型学习
+Complete graph@完全图
+Component learner@组件学习器
+Comprehensibility@可解释性
+Computation Cost@计算成本
+Computational Linguistics@计算语言学
+Computer vision@计算机视觉
+Concept drift@概念漂移
+Concept Learning System/CLS@概念学习系统
+Conditional entropy@条件熵
+Conditional mutual information@条件互信息
+Conditional Probability Table/CPT@条件概率表
+Conditional random field/CRF@条件随机场
+Conditional risk@条件风险
+Confidence@置信度
+Confusion matrix@混淆矩阵
+Conjugate directions@共轭方向
+Conjugate distribution@共轭分布
+Conjugate gradient@共轭梯度
+Connection weight@连接权
+Connectionism@连结主义
+Consistency@一致性／相合性
+Consistency convergence@一致性收敛
+Contingency table@列联表
+Continuation method@延拓法
+Continuous attribute@连续属性
+Contractive autoencoder@收缩自编码器
+Contractive neural network@收缩神经网络
+Convex optimization@凸优化
+Convergence@收敛
+Conversational agent@会话智能体
+Convex quadratic programming@凸二次规划
+Convexity@凸性
+Convolutional Boltzmann Machine@卷积玻尔兹曼机
+Co-occurrence@同现
+Coordinate descent@坐标下降
+Correlation coefficient@相关系数
+Cosine similarity@余弦相似度
+Cost curve@成本曲线
+Cost Function@成本函数
+Cost matrix@成本矩阵
+Cost-sensitive@成本敏感
+Covariance@协方差
+Covariance matrix@协方差矩阵
+Cross entropy@交叉熵
+Cross validation@交叉验证
+Cross-correlation@互相关函数
+Crowdsourcing@众包
+Cumulative function@累积函数
+Curse of dimensionality@维度灾难
+Curve-fitting@曲线拟合
+Cut point@截断点
+Cutting plane algorithm@割平面法
+Categorical attribute@分类属性
+Clustering@聚类
+Convolutional neural network/CNN@卷积神经网络
+Data generating distribution@数据生成分布
+Data mining@数据挖掘
+Data parallelism@数据并行
+Data set@数据集
+Data Wrangling@数据整理
+Dataset augmentation@数据集增强
+Debugging strategy@调试策略
+Decision Boundary@决策边界
+Decision stump@决策树桩
+Decision tree@决策树／判定树
+Deconvolutional Network@解卷积网络
+Deduction@演绎
+Deep Belief Network@深度信念网络
+Deep Boltzmann Machine@深度玻尔兹曼机
+Deep circuit@深度回路
+Deep Convolutional Generative Adversarial Network/DCGAN@深度卷积生成对抗网络
+Deep generative model@深度生成模型
+Deep learning@深度学习
+Deep neural network/DNN@深度神经网络
+Deep Q-Learning@深度 Q 学习
+Deep Q-Network@深度 Q 网络
+Denoising autoencoder@去噪自编码器
+Denoising score matching@去噪得分匹配
+Density estimation@密度估计
+Density-based clustering@密度聚类
+Detailed balance@细致平衡
+Determinant@行列式
+Diagonal matrix@对角矩阵
+Differentiable neural computer@可微分神经计算机
+Di?erential entropy@微分熵
+Di?erential equation@微分方程
+Dimensionality reduction algorithm@降维算法
+Directed edge@有向边
+Directed graphical model@有向图模型
+Directional derivative@方向导数
+Dirichlet distribution@狄利克雷分布
+Disagreement measure@不合度量
+Discriminative model@判别模型
+Discriminator@判别器
+Discriminator network@判别器网络
+Distance measure@距离度量
+Distance metric learning@距离度量学习
+Distribution@分布
+Divergence@散度
+Diversity measure@多样性度量／差异性度量
+Domain adaption@领域自适应
+Dominant strategy@占优策略
+Double backprop@双反向传播
+Doubly block circulant matrix@双重分块循环矩阵
+Downsampling@下采样
+D-separation/Directed separation@有向分离
+Dual problem@对偶问题
+Dummy node@哑结点
+Dynamic Fusion@动态融合
+Dynamic programming@动态规划
+Echo state network@回声状态网络
+Edge device@边缘设备
+Eigendecomposition@特征分解
+Eigenvalue@特征值
+Eigenvalue decomposition@特征值分解
+Eigenvector@特征向量
+Element-wise product@元素对应乘积
+Ellipsoid method@椭球法
+Embedding@嵌套
+Emotional analysis@情绪分析
+Empirical conditional entropy@经验条件熵
+Empirical entropy@经验熵
+Empirical error@经验误差
+Empirical risk@经验风险
+End-to-End@端到端
+Energy-based model@基于能量的模型
+Ensemble learning@集成学习
+Ensemble pruning@集成修剪
+Epochs@轮数/周期
+Error Correcting Output Codes/ECOC@纠错输出码
+Error rate@错误率
+Error-ambiguity decomposition@误差-分歧分解
+Euclidean distance@欧氏距离
+Euclidean norm@欧几里得范数
+Evolutionary computation@演化计算
+Expectation-Maximization/EM@期望最大化
+Expected loss@期望损失
+Expert network@专家网络
+Explaining away e?ect@相消解释作用
+Exploding Gradient Problem@梯度爆炸问题
+Exploitation@利用
+Exploration@探索
+Exponential loss function@指数损失函数
+Extreme Learning Machine/ELM@超限学习机
+Factor analysis@因子分析
+Factorization@因子分解
+Factors of variation@变差因素
+False negative@假负例
+False positive@假正例
+False Positive Rate/FPR@假正例率
+Fault-tolerant asynchronous training@容错异步训练
+Feature engineering@特征工程
+Feature extractor@特征提取器
+Feature map@特征图
+Feature selection@特征选择
+Feature vector@特征向量
+Featured Learning@特征学习
+Feedforward Neural Networks/FNN@前馈神经网络
+Field Programmable Gated Array@现场可编程门阵列
+Fine-tuning@精调
+Finite difference@有限差分
+Fixed point equation@不动点方程
+Flipping output@翻转法
+Fluctuation@震荡
+Folk Theorem@无名氏定理
+Forget gate@遗忘门
+Forward stagewise algorithm@前向分步算法
+Fourier transform@傅立叶变换
+Frequentist@频率主义学派
+Frequentist probability@频率派概率
+Full-rank matrix@满秩矩阵
+Functional derivative@泛函导数
+Functional neuron@功能神经元
+Gain ratio@增益率
+Game payoff@博弈效用
+Game theory@博弈论
+Gated recurrent net/GRN@门控循环网络
+Gaussian kernel function@高斯核函数
+Gaussian Mixture Model@高斯混合模型
+Gaussian Process@高斯过程
+General Problem Solving@通用问题求解
+Generalization@泛化
+Generalization error@泛化误差
+Generalization error bound@泛化误差上界
+Generalized Lagrange function@广义拉格朗日函数
+Generalized linear model@广义线性模型
+Generalized pseudolikelihood@广义伪似然
+Generalized Rayleigh quotient@广义瑞利商
+Generalized score matching@广义得分匹配
+Generative Adversarial Networks/GAN@生成对抗网络
+Generative Model@生成模型
+Generative moment matching network@生成矩匹配网络
+Generator@生成器
+Genetic Algorithm/GA@遗传算法
+Giant magnetoresistance@巨磁阻
+Gibbs sampling@吉布斯采样
+Gini index@基尼指数
+Global contrast normalization@全局对比度归一化
+Global minimum@全局最小
+Global Optimization@全局优化
+Gradient boosting tree@梯度提升树
+Gradient Descent@梯度下降
+Gradient energy distribution@梯度能量分布
+Graph theory@图论
+Grid search@网格搜索
+Ground-truth@真相／真实
+Hard margin@硬间隔
+Hard voting@硬投票
+Harmonic mean@调和平均
+Hesse matrix@海赛矩阵
+Heterogeneous Information Network/HIN@异质信息网络
+Hidden dynamic model@隐动态模型
+Hidden layer@隐藏层
+Hidden Markov Model/HMM@隐马尔可夫模型
+Hierarchical clustering@层次聚类
+Hilbert space@希尔伯特空间
+Hinge loss function@合页损失函数
+Hold-out@留出法
+Homogeneous@同质
+Hybrid computing@混合计算
+Hyperparameter@超参数
+Hypothesis@假设
+Hypothesis test@假设检验
+ICML@国际机器学习会议
+Identity matrix@单位矩阵
+Image restoration@图像复原
+Imperfect Information@不完美信息
+Improved iterative scaling/IIS@改进的迭代尺度法
+Incremental learning@增量学习
+Independent and identically distributed/i.i.d.@独立同分布
+Independent Component Analysis/ICA@独立成分分析
+Independent subspace analysis@独立子空间分析
+Indicator function@指示函数
+Individual learner@个体学习器
+Induction@归纳
+Inductive bias@归纳偏好
+Inductive learning@归纳学习
+Inductive Logic Programming/ILP@归纳逻辑程序设计
+Inequality constraint@不等式约束
+Inference@推断
+Information entropy@信息熵
+Information gain@信息增益
+Input layer@输入层
+Insensitive loss@不敏感损失
+Instance segmentation@实例分割
+Inter-cluster similarity@簇间相似度
+International Conference for Machine Learning/ICML@国际机器学习大会
+Intra-cluster similarity@簇内相似度
+Intrinsic value@固有值
+Invariance@不变性
+Invert@求逆
+Isometric Mapping/Isomap@等度量映射
+Isotonic regression@等分回归
+Iterative Dichotomiser@迭代二分器
+Jensen-Shannon Divergence/JSD@JS 散度
+Kernel method@核方法
+Kernel trick@核技巧
+Kernelized Linear Discriminant Analysis/KLDA@核线性判别分析
+K-fold cross validation@k 折交叉验证／k 倍交叉验证
+K-Means Clustering@K - 均值聚类
+K-Nearest Neighbours Algorithm/KNN@K近邻算法
+Knowledge base@知识库
+Knowledge Engineering@知识工程
+Knowledge graph@知识图谱
+Knowledge Representation@知识表征
+Label space@标记空间
+Lagrange duality@拉格朗日对偶性
+Lagrange multiplier@拉格朗日乘子
+Laplace smoothing@拉普拉斯平滑
+Laplacian correction@拉普拉斯修正
+Latent Dirichlet Allocation/LDA@隐狄利克雷分布
+Latent semantic analysis@潜在语义分析
+Latent variable@隐变量
+Law of large number@大数定理
+Layer-wise Adaptive Rate Scaling/LARS@层级对应的适应率缩放
+Lazy learning@懒惰学习
+Leaky ReLU@渗漏整流线性单元
+Learner@学习器
+Learning by analogy@类比学习
+Learning rate@学习速率
+Learning Vector Quantization/LVQ@学习向量量化
+Least squares regression tree@最小二乘回归树
+Leave-One-Out/LOO@留一法
+Lebesgue-integrable@勒贝格可积
+Left eigenvector@左特征向量
+Leibniz’s rule@莱布尼兹法则
+Linear Discriminant Analysis/LDA@线性判别
+Linear model@线性模型
+Linear Regression@线性回归
+Linear threshold units@线性阀值单元
+Link function@联系函数
+Local conditional probability distribution@局部条件概率分布
+Local contrast normalization@局部对比度归一化
+Local curvature@局部曲率
+Local Invariances@局部不变性
+Local Markov property@局部马尔可夫性
+Local minimum@局部最小
+Log likelihood@对数似然
+Log odds/logit@对数几率
+Logistic Regression@Logistic 回归
+Log-likelihood@对数似然
+Log-linear regression@对数线性回归
+Long-Short Term Memory/LSTM@长短期记忆
+Long-term dependency@长期依赖
+Loopy belief propagation@环状信念传播
+Loss function@损失函数
+Low rank matrix approximation@低秩矩阵近似
+Machine translation/MT@机器翻译
+Macron-P@宏查准率
+Macron-R@宏查全率
+Main diagonal@主对角线
+Majority voting@绝对多数投票法
+Manifold assumption@流形假设
+Manifold learning@流形学习
+Manifold tangent classi?er@流形正切分类器
+Margin theory@间隔理论
+Marginal distribution@边缘分布
+Marginal independence@边缘独立性
+Marginal probability distribution@边缘概率分布
+Marginalization@边际化
+Markov Chain@马尔可夫链
+Markov Chain Monte Carlo/MCMC@马尔可夫链蒙特卡罗方法
+Markov Random Field@马尔可夫随机场
+Matrix inversion@逆矩阵
+Maximal clique@最大团
+Maximum A Posteriori@最大后验
+Maximum Likelihood Estimation/MLE@极大似然估计／极大似然法
+Maximum margin@最大间隔
+Maximum weighted spanning tree@最大带权生成树
+Max-Pooling@最大池化
+Mean product of Student t-distribution@学生 t 分布均值乘积
+Mean squared error@均方误差
+Mean-covariance restricted Boltzmann machine@均值-协方差受限玻尔兹曼机
+Measure theory@测度论
+Meta-learner@元学习器
+Metric learning@度量学习
+Micro-P@微查准率
+Micro-R@微查全率
+Mini-Batch SGD@小批次随机梯度下降
+Minimal Description Length/MDL@最小描述长度
+Minimax game@极小极大博弈
+Misclassification cost@误分类成本
+Mixture density network@混合密度网络
+Mixture of experts@混合专家
+Model predictive control (MPC)@模型预测控制
+Moment matching@矩匹配
+Momentum@动量
+Monte Carlo Estimate@蒙特卡洛估计
+Moore's Law@摩尔定律
+Moral graph@道德图／端正图
+Multi-class classification@多类别分类
+Multi-document summarization@多文档摘要
+Multi-kernel learning@多核学习
+Multi-layer feedforward neural networks@多层前馈神经网络
+Multilayer Perceptron/MLP@多层感知器
+Multimodal learning@多模态学习
+Multinomial distribution@多项分布
+Multiple Dimensional Scaling@多维缩放
+Multiple linear regression@多元线性回归
+Multi-response Linear Regression/MLR@多响应线性回归
+Multivariate normal distribution@多维正态分布
+Mutual information@互信息
+Naive bayes@朴素贝叶斯
+Naive Bayes Classifier@朴素贝叶斯分类器
+Named entity recognition@命名实体识别
+Nash equilibrium@纳什均衡
+Nash reversion@纳什回归
+Natural language generation/NLG@自然语言生成
+Natural language processing@自然语言处理
+Nearest-neighbor search@最近邻搜索
+Negative class@负类
+Negative correlation@负相关法
+Negative de?nite@负定
+Negative Log Likelihood@负对数似然
+Negative semide?nite@半负定
+Neighbourhood Component Analysis/NCA@近邻成分分析
+Neural Machine Translation@神经机器翻译
+Neural Turing Machine@神经图灵机
+Neuromorphic Computing@神经形态计算
+Newton method@牛顿法
+Conference on Neural Information Processing Systems/NIPS@国际神经信息处理系统会议
+No Free Lunch Theorem/NFL@没有免费的午餐定理
+Noise-contrastive estimation@噪音对比估计
+Nominal attribute@列名属性
+Non-convex optimization@非凸优化
+Nonlinear model@非线性模型
+Non-linear oscillation@非线性振荡
+Non-metric distance@非度量距离
+Non-negative matrix factorization@非负矩阵分解
+Non-ordinal attribute@无序属性
+Non-Saturating Game@非饱和博弈
+Norm@范数
+Normalization@归一化
+Nuclear norm@核范数
+Numerical attribute@数值属性
+Numerical optimization@数值优化
+Objective function@目标函数
+Oblique decision tree@斜决策树
+Occam's razor@奥卡姆剃刀
+Odds@几率
+Offline inference@离线推断
+Off-Policy@离策略
+Offset vector@偏移向量
+One shot learning@一次性学习
+One-Dependent Estimator/ODE@独依赖估计
+Online inference@在线推断
+On-Policy@在策略
+Ordinal attribute@有序属性
+Orthogonal matrix@正交矩阵
+Orthonormal@标准正交
+Outlier@异常值/离群值
+Out-of-bag estimate@包外估计
+Output layer@输出层
+Output smearing@输出调制法
+Overcomplete@过完备
+Overfitting@过拟合／过配
+Oversampling@过采样
+Paired t-test@成对 t 检验
+Pairwise@成对型
+Pairwise Markov property@成对马尔可夫性
+Parallel tempering@并行回火
+Parameter@参数
+Parameter estimation@参数估计
+Parameter Server@参数服务器
+Parameter tuning@调参
+Parse tree@解析树
+Partial derivative@偏导数
+Particle Swarm Optimization/PSO@粒子群优化算法
+Part-of-speech tagging@词性标注
+Perceptron@感知机
+Performance measure@性能度量
+Permutation invariant@置换不变性
+Perplexity@困惑度
+Pictorial structure@图形结构
+Plug and Play Generative Network@即插即用生成网络
+Plurality voting@相对多数投票法
+Polarity detection@极性检测
+Polynomial Basis Function@多项式基函数
+Polynomial kernel function@多项式核函数
+Pooling@池化
+Positive class@正类
+Positive definite matrix@正定矩阵
+Posterior inference@后验推断
+Posterior probability@后验概率
+Post-hoc test@后续检验
+Post-pruning@后剪枝
+potential function@势函数
+Power method@幂方法
+Precision@查准率／精确率
+Prepruning@预剪枝
+Principal component analysis/PCA@主成分分析
+Principle of multiple explanations@多释原则
+Prior knowledge@先验知识
+Probability Graphical Model@概率图模型
+Proximal Gradient Descent/PGD@近端梯度下降
+Pruning@剪枝
+Pseudo-label@伪标记
+Quadratic Programming@二次规划
+Quantized Neural Network/QNN@量子化神经网络
+Quantum machine learning@量子机器学习
+Quasi Newton method@拟牛顿法
+Quasi-concave@拟凹
+Quantum computer@量子计算机
+Quantum Computing@量子计算
+Radial Basis Function/RBF@径向基函数
+Random Forest Algorithm@随机森林算法
+Random walk@随机漫步
+Recall@召回率／查全率
+Receiver Operating Characteristic/ROC@受试者工作特征
+Rectified Linear Unit/ReLU@线性修正单元
+Recurrent Neural Network@循环神经网络
+Recursive neural network@递归神经网络
+Reference model@参考模型
+Regression@回归
+Regularization@正则化
+Regularizer@正则化项
+Reinforcement learning/RL@强化学习
+Relative entropy@相对熵
+Reparametrization@重参数化
+Representation learning@表征学习
+Representer theorem@表示定理
+Reproducing Kernel Hilbert Space/RKHS@再生核希尔伯特空间
+Re-sampling@重采样法
+Rescaling@再缩放
+Reservoir computing@储层计算
+Residual Blocks@残差块
+Residual Mapping@残差映射
+Residual Network@残差网络
+Restricted Boltzmann Machine/RBM@受限玻尔兹曼机
+Restricted Isometry Property/RIP@限定等距性
+Reverse mode accumulation@反向模式累加
+Re-weighting@重赋权法
+Ridge regression@岭回归
+Robustness@稳健性/鲁棒性
+Root node@根结点
+Rule Engine@规则引擎
+Rule learning@规则学习
+Saddle point@鞍点
+Saddle-free Newton method@无鞍牛顿法
+Saliency map@显著图
+Sample space@样本空间
+Sampling@采样
+Score function@评分函数
+Second derivative@二阶导数
+Second-order method@二阶方法
+Self-contrastive estimation@自对比估计
+Self-Organizing Map/SOM@自组织映射
+Semantic hashing@语义哈希
+Semantic segmentation@语义分割
+Semantic similarity@语义相似度
+Semi-Definite Programming@半正定规划
+Semi-naive Bayes classifiers@半朴素贝叶斯分类器
+Semi-restricted Boltzmann Machine@半受限波尔兹曼机
+semi-Supervised Support Vector Machine@半监督支持向量机
+Sentiment analysis@情感分析
+Separating hyperplane@分离超平面
+Shannon entropy@香农熵
+Shift invariance@平移不变性
+Siamese Network@孪生网络
+Similarity measure@相似度度量
+Simulated annealing@模拟退火
+Simultaneous localization and mapping/SLAM@同步定位与地图构建
+Singular value@奇异值
+Singular Value Decomposition@奇异值分解
+Slack variables@松弛变量
+Slowness principle@慢性原则
+Smoothing@平滑
+Smoothness prior@平滑先验
+Soft margin@软间隔
+Soft margin maximization@软间隔最大化
+Soft voting@软投票
+Sparse activation@稀疏激活
+Sparse coding@稀疏编码
+Sparse connectivity@稀疏连接
+Sparse initialization@稀疏初始化
+Sparse representation@稀疏表征
+Sparsity@稀疏性
+Specialization@特化
+Spectral Clustering@谱聚类
+Spectral radius@谱半径
+Spiking Neural Nets@脉冲神经网络
+Splitting variable@切分变量
+Squashing function@挤压函数
+Stability-plasticity dilemma@可塑性-稳定性困境
+Stacked Deconvolutional Network/SDN@堆叠解卷积网络
+Standard deviation@标准差
+Static game@静态博弈
+Stationary distribution@稳态分布
+Stationary point@驻点
+Statistical learning@统计学习
+Status feature function@状态特征函数
+Stochastic gradient descent@随机梯度下降
+Stochastic Matrix@随机矩阵
+Stochastic maximum likelihood@随机最大似然
+Stochastic Neighbor Embedding@随机近邻嵌入
+Stratified sampling@分层采样
+Structural risk@结构风险
+Structural risk minimization/SRM@结构风险最小化
+Structured variational inference@结构化变分推断
+Subsampling@下采样
+Subspace@子空间
+Supervised learning@监督学习／有导师学习
+support vector expansion@支持向量展式
+Support Vector Machine/SVM@支持向量机
+Surrogat loss@替代损失
+Surrogate function@替代函数
+Symbolic learning@符号学习
+Symbolism@符号主义
+Synset@同义词集
+Synthetic feature@合成特征
+Self-Driving@自动驾驶
+Semi-Supervised Learning@半监督学习
+Sigmoid function@Sigmoid 函数/S 型函数
+Speech Recognition@语音识别
+Tangent plane@切平面
+Tangent prop@正切传播
+T-Distribution Stochastic Neighbour Embedding/t-SNE@T分布随机近邻嵌入
+Tempered transition@回火转移
+Tensor@张量
+Tensor Processing Units/TPU@张量处理单元
+The least square method@最小二乘法
+Threshold@阈值
+Threshold logic unit@阈值逻辑单元
+Threshold-moving@阈值移动
+Tiled convolution@平铺卷积
+Time delay neural network@时延神经网络
+Time Step@时间步
+Tokenization@标记化/分词
+Training error@训练误差
+Training instance@训练实例
+Transductive learning@直推学习
+Transfer learning@迁移学习/转移学习
+Treebank@树库
+Trial-by-error@试错法
+Triangulate@三角形化
+Trigram@三元语法
+True negative@真负例
+True positive@真正例
+True Positive Rate/TPR@真正例率
+Turing Machine@图灵机
+Twice-learning@二次学习
+Two-dimensional array@二维数组
+Underestimation@欠估计
+Underfitting@欠拟合／欠配
+Undersampling@欠采样
+Understandability@可理解性
+Undirected graphical model@无向图模型
+Unequal cost@非均等代价
+Unit norm@单位范数
+Unit test@单元测试
+Unit variance@单位方差
+Unitary matrix@酉矩阵
+Unit-step function@单位阶跃函数
+Univariate decision tree@单变量决策树
+Unprojection@反投影
+Unshared convolution@非共享卷积
+Unsupervised ?learning@无监督学习／无导师学习
+Unsupervised layer-wise training@无监督逐层训练
+Upper Confidence Bounds@上置信界限
+Upsampling@上采样
+Vanishing Gradient Problem@梯度消失问题
+Variational derivative@变分导数
+Variational free energy@变分自由能
+Variational inference@变分推断
+VC Theory@VC维理论
+Version space@版本空间
+Virtual adversarial example@虚拟对抗样本
+Viterbi algorithm@维特比算法
+Von Neumann architecture@冯 · 诺伊曼架构
+Weak learner@弱学习器
+Weight@权重
+Weight decaying@权值衰减
+Weight sharing@权共享
+Weighted voting@加权投票法
+Wasserstein GAN/WGAN@Wasserstein生成对抗网络
+Within-class scatter matrix@类内散度矩阵
+Word embedding@词嵌入
+Word sense disambiguation@词义消歧
+Zero mean@零均值
+Zero-data learning@零数据学习
+Zero-shot learning@零次学习
